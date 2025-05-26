@@ -248,7 +248,7 @@
                         <div id="div-servicios" class="h-100">
                             <img src="./public/img/galeria/blog-educacion.jpg" class="img-fluid" alt="">
                             <div class="fecha-pub d-flex pt-3">
-                                <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;25-11-2024</p>
+                                <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;26-05-2025</p>
                             </div>
                             <h4 class="pt-1">Tradición que transforma</h4>
                             <p class="pt-2">En un mundo competitivo, consumista y apurado como en el que vivimos, Lean nos recuerda que la mejora real ocurre diariamente, con pequeños pasos y a largo plazo.. </p>
