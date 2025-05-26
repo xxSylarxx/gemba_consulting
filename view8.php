@@ -258,7 +258,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 my-2 sticky-col pt-5">
+                <!-- <div class="col-md-4 my-2 sticky-col pt-5">
                     <div class="card mx-5" id="sidebar">
                         <div class="card-body">
                             <h5 class="fw-bold mb-3">CASOS DE ÉXITO</h5>
@@ -276,7 +276,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
