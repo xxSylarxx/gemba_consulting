@@ -206,7 +206,7 @@
                                 <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;25-11-2024</p>
                             </div>
                             <h4 class="pt-1">CULTURA EMPRESARIAL EN EL PERÚ</h4>
-                            <p class="pt-2">El flujo de caja es uno de los indicadores financieros más críticos para cualquier empresa. Un flujo de caja sólido no solo garantiza que la empresa pueda cumplir con sus obligaciones financieras a corto plazo, sino que también </p>
+                            <p class="pt-2">El flujo de caja es uno de los indicadores financieros más críticos para cualquier empresa. Un flujo de caja sólido no solo garantiza que la empresa pueda cumplir con sus obligaciones financieras a corto plazo, sino que también.</p>
                             <div class="text-center">
                                 <div class="btn-about">Más Detalles&nbsp;<i class="fas fa-angle-double-right"></i></div>
                             </div>
@@ -244,14 +244,14 @@
                     </a>
                 </div>
                 <div class="col-lg-4 pt-5 px-3" data-category="educacion">
-                    <a href="./view8.php?id=1">
+                    <a href="./view8.php?id=4">
                         <div id="div-servicios" class="h-100">
-                            <img src="./public/img/galeria/p-blog2.jpg" class="img-fluid" alt="">
+                            <img src="./public/img/galeria/blog-educacion.jpg" class="img-fluid" alt="">
                             <div class="fecha-pub d-flex pt-3">
                                 <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;25-11-2024</p>
                             </div>
-                            <h4 class="pt-1">Blog 4</h4>
-                            <p class="pt-2">El flujo de caja es uno de los indicadores financieros más críticos para cualquier empresa. Un flujo de caja sólido no solo garantiza que la empresa pueda cumplir con sus obligaciones financieras a corto plazo, sino que también </p>
+                            <h4 class="pt-1">Tradición que transforma</h4>
+                            <p class="pt-2">En un mundo competitivo, consumista y apurado como en el que vivimos, Lean nos recuerda que la mejora real ocurre diariamente, con pequeños pasos y a largo plazo.. </p>
                             <div class="text-center">
                                 <div class="btn-about">Más Detalles&nbsp;<i class="fas fa-angle-double-right"></i></div>
                             </div>

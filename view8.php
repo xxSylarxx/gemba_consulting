@@ -95,7 +95,7 @@
 
         #lema {
 
-           /*  background-attachment: fixed; */
+            /*  background-attachment: fixed; */
             background-size: 100%;
             padding-top: 10rem;
             padding-bottom: 10rem;
@@ -206,6 +206,9 @@
                         switch ($_GET['id']) {
                             case 1:
                                 echo "CULTURA EMPRESARIAL EN EL PERÚ";
+                                break;
+                            case 4:
+                                echo "TRADICIÓN QUE TRANSFORMA";
                                 break;
                             default:
                                 echo "Bienvenido a Blog";
