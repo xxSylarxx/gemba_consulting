@@ -194,55 +194,10 @@
                     <a class="btn mx-4 active" id="todos">Todos</a>
                     <a class="btn mx-4" id="noticias">Noticias</a>
                     <a class="btn mx-4" id="educacion">Educación</a>
-                    <a class="btn mx-4" id="eventos">Eventos</a>
+                    <!-- <a class="btn mx-4" id="eventos">Eventos</a> -->
                 </div>
             </div>
             <div class="blog-items row d-flex justify-content-center">
-                <div class="col-lg-4 pt-5 px-3" data-category="noticias">
-                    <a href="./view8.php?id=1">
-                        <div id="div-servicios" class="h-100">
-                            <img src="./public/img//galeria/portada_blog_1.jpg" class="img-fluid" alt="">
-                            <div class="fecha-pub d-flex pt-3">
-                                <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;25-11-2024</p>
-                            </div>
-                            <h4 class="pt-1">CULTURA EMPRESARIAL EN EL PERÚ</h4>
-                            <p class="pt-2">El flujo de caja es uno de los indicadores financieros más críticos para cualquier empresa. Un flujo de caja sólido no solo garantiza que la empresa pueda cumplir con sus obligaciones financieras a corto plazo, sino que también.</p>
-                            <div class="text-center">
-                                <div class="btn-about">Más Detalles&nbsp;<i class="fas fa-angle-double-right"></i></div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 pt-5 px-3" data-category="noticias">
-                    <a href="./view8.php?id=1">
-                        <div id="div-servicios" class="h-100">
-                            <img src="./public/img/galeria/p-blog2.jpg" class="img-fluid" alt="">
-                            <div class="fecha-pub d-flex pt-3">
-                                <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;25-11-2024</p>
-                            </div>
-                            <h4 class="pt-1">Blog 2</h4>
-                            <p class="pt-2">El flujo de caja es uno de los indicadores financieros más críticos para cualquier empresa. Un flujo de caja sólido no solo garantiza que la empresa pueda cumplir con sus obligaciones financieras a corto plazo, sino que también </p>
-                            <div class="text-center">
-                                <div class="btn-about">Más Detalles&nbsp;<i class="fas fa-angle-double-right"></i></div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 pt-5 px-3" data-category="noticias">
-                    <a href="./view8.php?id=1">
-                        <div id="div-servicios" class="h-100">
-                            <img src="./public/img/galeria/p-blog2.jpg" class="img-fluid" alt="">
-                            <div class="fecha-pub d-flex pt-3">
-                                <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;25-11-2024</p>
-                            </div>
-                            <h4 class="pt-1">Blog 3</h4>
-                            <p class="pt-2">El flujo de caja es uno de los indicadores financieros más críticos para cualquier empresa. Un flujo de caja sólido no solo garantiza que la empresa pueda cumplir con sus obligaciones financieras a corto plazo, sino que también </p>
-                            <div class="text-center">
-                                <div class="btn-about">Más Detalles&nbsp;<i class="fas fa-angle-double-right"></i></div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
                 <div class="col-lg-4 pt-5 px-3" data-category="educacion">
                     <a href="./view8.php?id=4">
                         <div id="div-servicios" class="h-100">
@@ -258,7 +213,53 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 pt-5 px-3" data-category="educacion">
+                
+                <!-- <div class="col-lg-4 pt-5 px-3" data-category="noticias">
+                    <a href="./view8.php?id=1">
+                        <div id="div-servicios" class="h-100">
+                            <img src="./public/img/galeria/p-blog2.jpg" class="img-fluid" alt="">
+                            <div class="fecha-pub d-flex pt-3">
+                                <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;25-11-2024</p>
+                            </div>
+                            <h4 class="pt-1">Blog 2</h4>
+                            <p class="pt-2">El flujo de caja es uno de los indicadores financieros más críticos para cualquier empresa. Un flujo de caja sólido no solo garantiza que la empresa pueda cumplir con sus obligaciones financieras a corto plazo, sino que también </p>
+                            <div class="text-center">
+                                <div class="btn-about">Más Detalles&nbsp;<i class="fas fa-angle-double-right"></i></div>
+                            </div>
+                        </div>
+                    </a>
+                </div> -->
+                <!-- <div class="col-lg-4 pt-5 px-3" data-category="noticias">
+                    <a href="./view8.php?id=1">
+                        <div id="div-servicios" class="h-100">
+                            <img src="./public/img/galeria/p-blog2.jpg" class="img-fluid" alt="">
+                            <div class="fecha-pub d-flex pt-3">
+                                <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;25-11-2024</p>
+                            </div>
+                            <h4 class="pt-1">Blog 3</h4>
+                            <p class="pt-2">El flujo de caja es uno de los indicadores financieros más críticos para cualquier empresa. Un flujo de caja sólido no solo garantiza que la empresa pueda cumplir con sus obligaciones financieras a corto plazo, sino que también </p>
+                            <div class="text-center">
+                                <div class="btn-about">Más Detalles&nbsp;<i class="fas fa-angle-double-right"></i></div>
+                            </div>
+                        </div>
+                    </a>
+                </div> -->
+                <div class="col-lg-4 pt-5 px-3" data-category="noticias">
+                    <a href="./view8.php?id=1">
+                        <div id="div-servicios" class="h-100">
+                            <img src="./public/img//galeria/portada_blog_1.jpg" class="img-fluid" alt="">
+                            <div class="fecha-pub d-flex pt-3">
+                                <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;25-11-2024</p>
+                            </div>
+                            <h4 class="pt-1">CULTURA EMPRESARIAL EN EL PERÚ</h4>
+                            <p class="pt-2">El flujo de caja es uno de los indicadores financieros más críticos para cualquier empresa. Un flujo de caja sólido no solo garantiza que la empresa pueda cumplir con sus obligaciones financieras a corto plazo, sino que también.</p>
+                            <div class="text-center">
+                                <div class="btn-about">Más Detalles&nbsp;<i class="fas fa-angle-double-right"></i></div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <!-- <div class="col-lg-4 pt-5 px-3" data-category="educacion">
                     <a href="./view8.php?id=1">
                         <div id="div-servicios" class="h-100">
                             <img src="./public/img/galeria/p-blog2.jpg" class="img-fluid" alt="">
@@ -272,8 +273,8 @@
                             </div>
                         </div>
                     </a>
-                </div>
-                <div class="col-lg-4 pt-5 px-3" data-category="educacion">
+                </div> -->
+                <!-- <div class="col-lg-4 pt-5 px-3" data-category="educacion">
                     <a href="./view8.php?id=1">
                         <div id="div-servicios" class="h-100">
                             <img src="./public/img/galeria/p-blog2.jpg" class="img-fluid" alt="">
@@ -287,8 +288,8 @@
                             </div>
                         </div>
                     </a>
-                </div>
-                <div class="col-lg-4 pt-5 px-3" data-category="eventos">
+                </div> -->
+                <!-- <div class="col-lg-4 pt-5 px-3" data-category="eventos">
                     <a href="./view8.php?id=1">
                         <div id="div-servicios" class="h-100">
                             <img src="./public/img/galeria/p-blog2.jpg" class="img-fluid" alt="">
@@ -302,8 +303,8 @@
                             </div>
                         </div>
                     </a>
-                </div>
-                <div class="col-lg-4 pt-5 px-3" data-category="eventos">
+                </div> -->
+                <!-- <div class="col-lg-4 pt-5 px-3" data-category="eventos">
                     <a href="./view8.php?id=1">
                         <div id="div-servicios" class="h-100">
                             <img src="./public/img/galeria/p-blog2.jpg" class="img-fluid" alt="">
@@ -317,8 +318,8 @@
                             </div>
                         </div>
                     </a>
-                </div>
-                <div class="col-lg-4 pt-5 px-3" data-category="eventos">
+                </div> -->
+                <!-- <div class="col-lg-4 pt-5 px-3" data-category="eventos">
                     <a href="./view8.php?id=1">
                         <div id="div-servicios" class="h-100">
                             <img src="./public/img/galeria/p-blog2.jpg" class="img-fluid" alt="">
@@ -332,7 +333,7 @@
                             </div>
                         </div>
                     </a>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
