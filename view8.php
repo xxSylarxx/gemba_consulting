@@ -210,6 +210,9 @@
                             case 4:
                                 echo "TRADICIÓN QUE TRANSFORMA";
                                 break;
+                            case 5:
+                                echo "APRENDIZAJES DESDE LA OPERACIÓN MINERA";
+                                break;  
                             default:
                                 echo "Bienvenido a Blog";
                                 break;

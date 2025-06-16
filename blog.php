@@ -199,6 +199,21 @@
             </div>
             <div class="blog-items row d-flex justify-content-center">
                 <div class="col-lg-4 pt-5 px-3" data-category="educacion">
+                    <a href="./view8.php?id=5">
+                        <div id="div-servicios" class="h-100">
+                            <img src="./public/img/galeria/portada-mineria.jpg" class="img-fluid" alt="">
+                            <div class="fecha-pub d-flex pt-3">
+                                <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;16-06-2025</p>
+                            </div>
+                            <h4 class="pt-1">Aprendizajes desde la operación minera</h4>
+                            <p class="pt-2">La semana pasada regresé de mi primera experiencia trabajando en una mina, como parte del proyecto de Optimización del cierre del flujo contable. Fui con el equipo de Gemba Consulting Group y nuestro objetivo era claro: entender desde la raíz qué está ocurriendo en el cierre de mes para identificar oportunidades de mejora junto con el equipo. </p>
+                            <div class="text-center">
+                                <div class="btn-about">Más Detalles&nbsp;<i class="fas fa-angle-double-right"></i></div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 pt-5 px-3" data-category="educacion">
                     <a href="./view8.php?id=4">
                         <div id="div-servicios" class="h-100">
                             <img src="./public/img/galeria/blog-educacion.jpg" class="img-fluid" alt="">
@@ -213,7 +228,8 @@
                         </div>
                     </a>
                 </div>
-                
+
+
                 <!-- <div class="col-lg-4 pt-5 px-3" data-category="noticias">
                     <a href="./view8.php?id=1">
                         <div id="div-servicios" class="h-100">
