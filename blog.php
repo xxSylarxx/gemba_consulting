@@ -199,6 +199,21 @@
             </div>
             <div class="blog-items row d-flex justify-content-center">
                 <div class="col-lg-4 pt-5 px-3" data-category="educacion">
+                    <a href="./view8.php?id=6">
+                        <div id="div-servicios" class="h-100">
+                            <img src="./public/img/galeria/blog6-gemba.jpg" class="img-fluid" alt="">
+                            <div class="fecha-pub d-flex pt-3">
+                                <p class="my-auto"><i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;07-07-2025</p>
+                            </div>
+                            <h4 class="pt-1">¿Cómo enfrentar los 4 mayores obstáculos hacia una cultura de excelencia?</h4>
+                            <p class="pt-2">Durante años he visto equipos llenos de talento, líderes bien intencionados, estancarse sin entender que los detiene y sin lograr revertir la muerte súbita o lánguida de sus iniciativas de mejora continua.   </p>
+                            <div class="text-center">
+                                <div class="btn-about">Más Detalles&nbsp;<i class="fas fa-angle-double-right"></i></div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 pt-5 px-3" data-category="educacion">
                     <a href="./view8.php?id=5">
                         <div id="div-servicios" class="h-100">
                             <img src="./public/img/galeria/portada-mineria.jpg" class="img-fluid" alt="">

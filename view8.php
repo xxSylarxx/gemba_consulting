@@ -212,7 +212,10 @@
                                 break;
                             case 5:
                                 echo "APRENDIZAJES DESDE LA OPERACIÓN MINERA";
-                                break;  
+                                break;
+                            case 6;
+                                echo "¿Cómo enfrentar los 4 mayores obstáculos hacia una cultura de excelencia?";
+                                break;
                             default:
                                 echo "Bienvenido a Blog";
                                 break;
